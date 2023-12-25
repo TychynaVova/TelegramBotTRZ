@@ -2,7 +2,7 @@ Simple telegram bot for payment via Trazzo
 
 
 ## View
-[Site](https://t.me/IKTestPaymentBot)
+[TelegramBot](https://t.me/IKTestPaymentBot)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
